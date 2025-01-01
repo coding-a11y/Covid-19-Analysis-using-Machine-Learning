@@ -1,8 +1,11 @@
 # Covid-19 Data Analysis
+### Dashboard Link - https://app.powerbi.com/links/eECYeRy3ry?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare
+
+![image](https://github.com/user-attachments/assets/88a62bf7-c43e-4b18-b8f8-10b7f2a25aa3)
 
 ## Problem Statement
 
-This project involves performing exploratory data analysis using Python and creating a COVID-19 dashboard in Tableau. The focus is on understanding the impact of Covid-19 in India, including vaccination status, and generating visualizations of global Covid-19 cases, deaths, and recoveries using Tableau.
+This project involves performing exploratory data analysis using Python and creating a COVID-19 dashboard in Power BI. The focus is on understanding the impact of Covid-19 in India, including vaccination status, and generating visualizations of global Covid-19 cases, deaths, and recoveries using Tableau.
 
 COVID-19 Data Analysis Using Python
 Objective: Analyze the impact of COVID-19 globally and in India using Python for data preprocessing, visualization, and machine learning to extract actionable insights.
