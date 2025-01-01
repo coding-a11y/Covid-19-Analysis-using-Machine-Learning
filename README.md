@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-This project involves performing exploratory data analysis using Python and creating a COVID-19 dashboard in Power BI. The focus is on understanding the impact of Covid-19 in India, including vaccination status, and generating visualizations of global Covid-19 cases, deaths, and recoveries using Tableau.
+This project involves performing exploratory data analysis using Python and creating a COVID-19 dashboard in Power BI. The focus is on understanding the impact of Covid-19 in India, including vaccination status, and generating visualizations of global Covid-19 cases, deaths, and recoveries using Power BI.
 
 COVID-19 Data Analysis Using Python
 Objective: Analyze the impact of COVID-19 globally and in India using Python for data preprocessing, visualization, and machine learning to extract actionable insights.
